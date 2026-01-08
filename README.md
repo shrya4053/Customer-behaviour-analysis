@@ -23,7 +23,7 @@ This project analyzes a retail consumer behavior dataset to identify trends, imp
   - CPerformed EDA
 
   ## Dashboard
-<a href=" https://github.com/shrya4053/Customer-behaviour-analysis/blob/main/Screenshot%202026-01-09%20002234.png">View Dashboard</a>
+  <img width="1366" height="720" alt="Screenshot 2026-01-09 002234" src="https://github.com/user-attachments/assets/33c85b78-9e13-41d6-b2da-abde051433d2" />
 
 ## Business Recommendations
 - Boost Subscriptions – Promote exclusive benefits for subscribers.
