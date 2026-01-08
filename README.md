@@ -25,14 +25,11 @@ This project analyzes a retail consumer behavior dataset to identify trends, imp
   ## Dashboard
 <a href=" https://github.com/shrya4053/Customer-behaviour-analysis/blob/main/Screenshot%202026-01-09%20002234.png">View Dashboard</a>
 
-    ## Project Insight
-    - People who live close to work (0–5 miles) buy bikes most often (58.6%).
-    - Adults (not Seniors) are the main group buying bikes (50.2%)
-    - People who buy bikes have a higher average salary than those who don't.
-    - Customers who own zero cars have the highest buying rate (61.1%).
-
-  ## Final Conclusion
-  - Direct all local advertising to residential areas and office buildings within a 5-mile radius of the store. (Solves the Distance problem).
-  - Run promotions that emphasize time savings and avoiding traffic. This appeals to the Adult customer with a good salary.
-  - Feature premium, durable commuter bikes and accessories instead of entry-level mountain bikes. SInce the buyer has a higher average salary, confirming they can afford a quality product.
-  - Adults are the primary buyers (50.2% Buy Rate). The store should focus its demographic targeting here.
+## Business Recommendations
+- Boost Subscriptions – Promote exclusive benefits for subscribers.
+- Customer Loyalty Programs – Reward repeat buyers to move them into the “Loyal”
+segment.
+- Review Discount Policy – Balance sales boosts with margin control.
+- Product Positioning – Highlight top-rated and best-selling products in campaigns.
+- Targeted Marketing – Focus efforts on high-revenue age groups and express-shipping
+users.
