@@ -20,7 +20,8 @@ This project analyzes a retail consumer behavior dataset to identify trends, imp
   ## Process
   - Verified data for any missing values and anomalities, and sort out the same.
   - Made sure data is consisted and clean with respect to data type, data format and values used.
-  - CPerformed EDA
+  - Performed EDA using
+  - Visualised using PowerBi for better un derstanding
 
   ## Dashboard
   <img width="1366" height="720" alt="Screenshot 2026-01-09 002234" src="https://github.com/user-attachments/assets/33c85b78-9e13-41d6-b2da-abde051433d2" />
