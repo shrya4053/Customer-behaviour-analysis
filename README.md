@@ -23,7 +23,7 @@ This project analyzes a retail consumer behavior dataset to identify trends, imp
   - CPerformed EDA
 
   ## Dashboard
-  [<img width="969" height="417" alt="Screenshot 2025-11-24 172809" src="https://github.com/user-attachments/assets/d2c6ee94-1f43-434e-8942-5cb7eaaba873" />](https://github.com/shrya4053/Customer-behaviour-analysis/blob/main/Screenshot%202026-01-09%20002234.png)
+<a href=" https://github.com/shrya4053/Customer-behaviour-analysis/blob/main/Screenshot%202026-01-09%20002234.png">View Dashboard</a>
 
     ## Project Insight
     - People who live close to work (0–5 miles) buy bikes most often (58.6%).
